@@ -37,7 +37,7 @@ def arithmetic_arranger(problems, solve = False):
 
       dash = "-" * width
         
-      if problem != problems[-1]:
+      if problem not in problems[-1]:
         row1 = row1 + num1.rjust(width) + '    '
         row2 = row2 + operator + num2.rjust(width - 1) + '    '
         row3 = row3 + dash + '    '
