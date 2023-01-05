@@ -1,3 +1,3 @@
 # Personal-Project1
 
-Program that solves arithmetic problems after displaying them in an easy to read format.
+Program that displays arithmetic problems in an easy to read format then solves them.
